@@ -17,7 +17,7 @@ import os
 from nltk.tokenize import word_tokenize
 from sentence_transformers import SentenceTransformer
 from huggingface_hub import login
-login(token="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")
+login(token="HF_token")
 sentence_transformer = SentenceTransformer('all-MiniLM-L6-v2') #,cache_folder="/ocean/projects/mth240012p/dwarache/data/")
 def calculate_similarity(text1, text2, sentence_transformer):
     """Calculate cosine similarity between two texts using SentenceBERT."""
