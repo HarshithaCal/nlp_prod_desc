@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Amazon Product Description Customizer</title>
+  <style>
+    body {
+      width: 350px;
+      font-family: Arial, sans-serif;
+      padding: 15px;
+    }
+    h2 {
+      color:#00ffff;
+      margin-top: 0;
+    }
+    select {
+      width: 100%;
+      padding: 8px;
+      margin: 10px 0;
+      border-radius: 4px;
+      border: 1px solid #ffffff;
+    }
+    button {
+      background-color: #ff7300;
+      color: #ffffff;
+      border: none;
+      padding: 10px 15px;
+      border-radius: 4px;
+      cursor: pointer;
+      width: 100%;
+      font-weight: bold;
+    }
+    button:hover {
+      background-color: #ff7300;
+    }
+    button:disabled {
+      background-color: #cccccc;
+      cursor: not-allowed;
+    }
+    #result {
+      margin-top: 15px;
+      border-top: 1px solid #ffffff;
+      padding-top: 15px;
+    }
+    .loader {
+      display: none;
+      border: 3px solid #f3f3f3;
+      border-top: 3px solid #ff7300;
+      border-radius: 50%;
+      width: 20px;
+      height: 20px;
+      animation: spin 1s linear infinite;
+      margin: 10px auto;
+    }
+    .loading {
+      opacity: 0.5;
+      pointer-events: none;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
+</head>
+<body>
+  <h2>Amazon Product Customizer</h2>
+  
+  <label for="persona">Choose your shopping persona:</label>
+  <select id="persona">
+    <option value="tight budget, student, looking for durability">Budget-conscious Student</option>
+    <option value="luxury seeker, prefers premium quality and brand">Luxury Seeker</option>
+    <option value="eco-conscious, prefers sustainable and eco-friendly products">Eco-Conscious Shopper</option>
+    <option value="tech enthusiast, loves innovative features">Tech Enthusiast</option>
+    <option value="fashion-conscious, looking for trendy and stylish products">Fashion-Forward</option>
+    <option value="athlete, needs performance and durability">Athletic Performance</option>
+  </select>
+  
+  <button id="customize">Customize Description</button>
+  
+  <div id="loader" class="loader"></div>
+  
+  <div id="result">
+    <p>Select a persona and click "Customize Description" to get a personalized product description.</p>
+  </div>
+  
+  <script src="popup.js"></script>
+</body>
+</html> 

@@ -1,0 +1,261 @@
+
+Testing model on test samples...
+Generating responses:   0%|                                                                                                                                                                                                        | 0/12 [00:00<?, ?it/s] 
+Full Generated Text:
+Persona: tight budget, student, looking for durability
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description:
+(5) Patterning:
+1) Sew the yarn yarn from the yarn in the yarn.
+2) Sew a large hole in the crochet yarn. The yarn will be the same size as the other yarn. When you sew the yarn, you will have the same amount of yarn as the others.
+3) Sew an 8.5mm diameter hole between the yarn and the yarn at the ends.
+4) Sew each of the yarn into a tight loop (5 inches), and draw your stitches over the yarn until you have enough space between the stitches.
+5) Sew on the yarn (
+
+Test Sample 1:
+Generated Description: (5) Patterning:
+
+Expected Description: Looking for affordable crafting supplies? This 300 gm Oswal Multi Berry Wool is perfect for students who want to create cozy sweaters, jumpers, or baby items without spending too much. Made from 100% acrylic, its soft, durable, and ideal for a range of craft projects. This budget-friendly option lets you express your creativity while keeping your costs low.
+
+Cosine Similarity: 0.0649
+----------------------------------------------------------------------------------------------------
+Generating responses:   8%|████████████████                                                                                                                                                                                | 1/12 [00:04<00:49,  4.54s/it] 
+Full Generated Text:
+Persona: luxury seeker, prefers premium quality and brand
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description: http://www.pantas.com/products/product/product-poster/15221649.html
+
+Test Sample 2:
+Generated Description: http://www.pantas.com/products/product/product-poster/15221649.html
+
+Expected Description: Elevate your crafting projects with the luxurious Oswal Multi Berry Wool. Made from high-quality acrylic, this soft and smooth yarn is perfect for creating delicate items like baby blankets, hats, and sweaters. Available in a wide array of colors, its the premium choice for those who value both quality and luxury in their crafting materials.
+
+Cosine Similarity: 0.2386
+----------------------------------------------------------------------------------------------------
+Generating responses:  17%|████████████████████████████████                                                                                                                                                                | 2/12 [00:05<00:25,  2.59s/it] 
+Full Generated Text:
+Persona: eco-conscious, prefers sustainable and eco-friendly products
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description: <br><p><br></a><p></a></p></p<br><br><i>The yarn is made from 100% cotton, cotton, and cotton. It is made with high quality cotton and can also be used in various projects, knitting projects, home decorating and home decorators.&p><i><br>â²® is a wool wool made from 1000% cotton and 100% nylon. The yarn is in a very fine, high-machined color and is in an extremely soft, soft knit yarn. The colors are made in a high-
+
+Test Sample 3:
+Generated Description: <br><p><br></a><p></a></p></p<br><br><i>The yarn is made from 100% cotton, cotton, and cotton. It is made with high quality cotton and can also be used in various projects, knitting projects, home decorating and home decorators.&p><i><br>â²® is a wool wool made from 1000% cotton and 100% nylon. The yarn is in a very fine, high-machined color and is in an extremely soft, soft knit yarn. The colors are made in a high-
+
+Expected Description: Craft with care for the planet with Oswal Multi Berry Wool. Made from sustainable, high-quality acrylic, this yarn is perfect for eco-conscious crafters who still want the best in softness and durability. Whether you're making sweaters or baby items, this eco-friendly wool allows you to create while being mindful of your environmental impact.
+
+Cosine Similarity: 0.5364
+----------------------------------------------------------------------------------------------------
+Generating responses:  25%|████████████████████████████████████████████████                                                                                                                                                | 3/12 [00:09<00:28,  3.16s/it] 
+Full Generated Text:
+Persona: tech enthusiast, loves innovative features
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description:
+- Made from 3-4 oz. of yarn, this yarn is a knit yarn. It is made from 3.4 oz of yarn. This yarn is made by 3.3 oz of wool. This wool is Made from 4-4oz. of wool, this wool is Make Your Own, Make Your own.
+- Comes in 2-4 inches (5.3 mm) in length. This is made with the yarn.
+The yarn is also made of 3.0 oz. (3.0 mm) and 2.0 (3 mm).
+The width of the yarn is 3 x 2
+
+Test Sample 4:
+Generated Description: - Made from 3-4 oz. of yarn, this yarn is a knit yarn. It is made from 3.4 oz of yarn. This yarn is made by 3.3 oz of wool. This wool is Made from 4-4oz. of wool, this wool is Make Your Own, Make Your own.
+
+Expected Description: Unleash your creativity with Oswal Multi Berry Wool, a tech-inspired crafting material that offers both innovation and quality. Soft and versatile, its perfect for creating modern, trendy items like baby blankets or even tech accessories. With a wide range of colors to choose from, you can craft projects that suit your tech-savvy style.
+
+Cosine Similarity: 0.3728
+----------------------------------------------------------------------------------------------------
+Generating responses:  33%|████████████████████████████████████████████████████████████████                                                                                                                                | 4/12 [00:13<00:27,  3.42s/it] 
+Full Generated Text:
+Persona: fashion-conscious, looking for trendy and stylish products
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description: <br></a><p><br></b><p></b>
+1. You can knit as jumper with yarn baby yarn in any size, including your own.
+2. If you want to knit as jumper with yarn jumper with wool baby yarn, you can knit in any number of sizes.
+3. A knit jumper for jumper with knit baby yarn can be made with yarn wool baby and it's more comfortable with less space in your home.
+4. You could knit as jumpser with wool child yarn in multiple sizes. Or knit as kitty with yarn kitty yarn.
+
+Test Sample 5:
+Generated Description: <br></a><p><br></b><p></b>
+
+Expected Description: Add a touch of flair to your DIY projects with Oswal Multi Berry Wool. This vibrant and soft yarn allows you to create stylish garments and accessories, from cozy sweaters to trendy baby hats. With a variety of colors to choose from, its the perfect addition to any fashion-conscious crafters collection.
+
+Cosine Similarity: 0.0719
+----------------------------------------------------------------------------------------------------
+Generating responses:  42%|████████████████████████████████████████████████████████████████████████████████                                                                                                                | 5/12 [00:17<00:25,  3.60s/it] 
+Full Generated Text:
+Persona: athlete, needs performance and durability
+Product: <p>â This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.<br></p><p> â Knitting yarn baby wool is made of 100% acrylic. This high-quality knitting wool yarn set can be used for a variety of craft projects, hand crocheting, baby blankets, hats, booties, wool socks, kit and other baby and kids items.&nbsp;<br></p><p>â&nbsp;This wool for knitting is good as a crochet yarn wool and can be crafted as jumpers, sweaters, etc.</p><p>â&nbsp;Branded wool knitting provides satisfaction and quality of knitting experience.<br></p><p>â&nbsp;This variety of wool contains many colors like Black, Violet, Blue, White, Red, Green, multi,&nbsp; etc.<br></p><p>â&nbsp;This crochet wool is a Gauge 3 wool, it's not a chunky thick wool. It's a very soft thread yarn comes in many colors. Can be hand washet and delicat machine wash at 40Â° C.<br></p><p>â&nbsp;Similar types of wools are - Vardhman rosemary wool, Vardhman microshine wool, oswal wool thread yarn for knitting.<br></p><p>â Note - This is not a yarn thick chunky wool. Not a thick wool for knitting. It's a needle, crochet yarn acrylic avaliable in gm and kg.<br></p>
+Customized description:
+Customised description: This wool will be a light, light, and fluffy yarn. The yarn will be dyed in a dark shade with white wool and red wool and black wool. This is a very light, dark, and wool. The wool will get a small light pink-brown.
+Customisable description: A high-pitched wool yarn, this is a high-coverage yarn that is very soft, light and fluffy. The knit yarn will get an almost light pink.
+Product description: You will be able to create a yarn that will be light, soft, and light. The fabric will be dark
+
+Test Sample 6:
+Generated Description: Customised description: This wool will be a light, light, and fluffy yarn. The yarn will be dyed in a dark shade with white wool and red wool and black wool. This is a very light, dark, and wool. The wool will get a small light pink-brown.
+
+Expected Description: Craft your own performance gear or cozy post-workout accessories with Oswal Multi Berry Wool. Made from durable, high-quality acrylic, its designed to handle the demands of active lifestyles. Whether you're knitting socks, hats, or blankets, this wool offers both comfort and strength for all your athletic needs.
+
+Cosine Similarity: 0.3772
+----------------------------------------------------------------------------------------------------
+Generating responses:  50%|████████████████████████████████████████████████████████████████████████████████████████████████                                                                                                | 6/12 [00:20<00:21,  3.60s/it] 
+Full Generated Text:
+Persona: tight budget, student, looking for durability
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+This lightweight lightweight-looking tank fits on top of a lightweight-weight-looking backpack with a soft, natural look for hiking.
+The size of the backpack can be adjusted and adjustable, which is ideal for the comfort of your back.
+This tank comes with a 5.3-inch width for maximum comfort.
+Access to all of the optional items, including:
+
+A pair of hiking shorts and hiking shorts
+A hiking shorts with hiking shorts (also included with the backpack), as well as a hiking shorts.
+A backpack with hiking pants, as well a hiking pants.
+Another option that is compatible with any backpack is the size of your backpack (like a T-shirt, jacket, or jacket), but will not be available for use with a backpack.
+You can also select the size and size of each item to choose from.
+All items are available in the following colors:
+Lightweight-Sleevels
+Heavyweight-Tilt-Sleeve
+Light-Sock-Tilted
+Light Weight-Socking-Tillted
+Shiny-Socks
+Shined-Socked
+Shining-Sacked
+Shine-Sacks
+Light weight-Sacking-TILted
+Dimensions: 5.4-inches
+Weight: 5-inches, Weight: 5 ounces
+Weight and Weight: 4 ounces
+For more details on the T-Shine Sleevene, check out the product page.
+
+Test Sample 7:
+Generated Description: This lightweight lightweight-looking tank fits on top of a lightweight-weight-looking backpack with a soft, natural look for hiking.
+
+Expected Description: Stay comfortable and stylish without breaking your budget with the Fihapyli Workout Tank Top. Ideal for students who need durable, affordable activewear, this sleeveless yoga top offers a breathable, light fit perfect for your gym or yoga sessions. Its the perfect blend of function and affordability!
+
+Cosine Similarity: 0.3396
+----------------------------------------------------------------------------------------------------
+Generating responses:  58%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                                | 7/12 [00:28<00:24,  4.84s/it] 
+Full Generated Text:
+Persona: luxury seeker, prefers premium quality and brand
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+Fihapilia, the soft, flexible, and durable, is a versatile and flexible, lightweight and durable and lightweight to wear and play with. It's a lightweight, lightweight, soft, lightweight one that can stretch and stretch. It also features a high quality, durable, lightweight tank and seat. It will be available in two sizes:
+• 1/2 x 3/4 x 4/8 x 5/8x 8 x 12 x 16 x 16x16 x 16
+• 2/4x 3/8 × 8 x 13 x 16 X 16 x 17 x 17x17 x 17
+• 4/6 x 9 x 10 x 12x 12 x 17X 17 x 18
+• 5/6x 9 x 12 X 12 x 18
+
+Test Sample 8:
+Generated Description: Fihapilia, the soft, flexible, and durable, is a versatile and flexible, lightweight and durable and lightweight to wear and play with. It's a lightweight, lightweight, soft, lightweight one that can stretch and stretch. It also features a high quality, durable, lightweight tank and seat. It will be available in two sizes:
+
+Expected Description: Work out in luxury with the Fihapyli Workout Tank Top. This sleek and stylish activewear top is designed to provide both comfort and high-end fashion. Whether you're hitting the gym or relaxing post-workout, its premium materials and perfect fit ensure you look your best while enjoying optimal performance.
+
+Cosine Similarity: 0.5611
+----------------------------------------------------------------------------------------------------
+Generating responses:  67%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                                | 8/12 [00:32<00:18,  4.61s/it] 
+Full Generated Text:
+Persona: eco-conscious, prefers sustainable and eco-friendly products
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+This is a great workout tank for women, but is very much for men. It comes with a lot of energy, and a lot energy. This tank is designed to be used for men, but you will need to know how to use it. It can also be worn for women or for men for men as well.
+In the case of this tank, it will be used to hold the body of the man in place. It will also be made for women.
+Product description: This is a very well designed workout tank. It is also made for men and for women as well
+Customization:
+The product is made for people, but it will not be worn as a form of exercise, as it is not an exercise.
+Design:
+Here's how to make this a simple and easy one.
+This will be the same size as the one you're using.
+You will need:
+1 x 4″ x 2″ x 1″
+2 x 2 inches
+1 inch wide
+1/2 inch wide, 2/3 inch wide.
+2 inch tall, 3/4 inch wide (for women).
+2 inches wide, 3.4 inch tall (for men).
+4 inches wide
+3 inch tall
+4 inch long, 3-4 inch broad (for both men).
+
+Test Sample 9:
+Generated Description: This is a great workout tank for women, but is very much for men. It comes with a lot of energy, and a lot energy. This tank is designed to be used for men, but you will need to know how to use it. It can also be worn for women or for men for men as well.
+
+Expected Description: Embrace your eco-conscious lifestyle with the Fihapyli Workout Tank Top. Made from sustainable materials, this sleeveless top is perfect for eco-minded individuals who value both fitness and the environment. Light, breathable, and designed for comfort, its the ideal choice for workouts or casual wear.
+
+Cosine Similarity: 0.3948
+----------------------------------------------------------------------------------------------------
+Generating responses:  75%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                                                | 9/12 [00:39<00:16,  5.36s/it] 
+Full Generated Text:
+Persona: tech enthusiast, loves innovative features
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+The work out tank is a unique work-out tank designed to help women stretch and stretch.
+It is made of a top-of-the-line polyester-filled tank that makes it a great fit for women, both for women and men.
+The tank features a customised, water-resistant polyester finish and a full-size, waterproof, waterproof waterproof, and waterproof.
+Women use it for exercise and exercise, and it is fully waterproof and waterproof, even without any wear or injury.
+You can order it here
+To order a custom fit for men and women, please call (800) 676-2227
+For more information about the work-outs tank, please visit www.fitformen.com.
+
+Test Sample 10:
+Generated Description: The work out tank is a unique work-out tank designed to help women stretch and stretch.
+
+Expected Description: For those who love innovation in every aspect of life, the Fihapyli Workout Tank Top combines cutting-edge design with functional comfort. Its breathable fabric and unique mesh back ensure maximum airflow during your toughest workouts. A must-have for tech enthusiasts who demand high performance from both their gear and clothing.
+
+Cosine Similarity: 0.5043
+----------------------------------------------------------------------------------------------------
+Generating responses:  83%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▏                               | 10/12 [00:43<00:09,  4.87s/it] 
+Full Generated Text:
+Persona: fashion-conscious, looking for trendy and stylish products
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+Customize your workout fit, style, style. Choose from the standard size and size of your workout.
+Customizable size and length. Choose between the standard width and height of your workouts.
+Design. Choose the standard height and height and width of your exercises. Customize your workouts fit, size and height. Customise your workouts to fit your workout style.
+Choose from the quality of your training. Design. Choose your workout to fit you workout style, size, and height, and size. Customized size and width.
+Size and height
+Customization of your gym to fit or fit your gym style. Customizes your workouts by adding a size and a size.
+Color. Choose a color that is more natural to your workout and has a more natural color.
+Quality. Choose an color that has more natural colors.
+How to Make a Fit
+If you're looking for a gym fit, you might want to create a fit that suits your style. A Fit is a fit, a fit.
+If your gym is a gym or workout, you may want to make a fit where you fit, where you place your workout, where your workout or workout. A fit is a Fit.
+Your Fit is in the gym.
+A Fit. The fit is in your gym. Your Fit is out.
+The Fit is outside your gym and the fit is inside your gym, not inside your workout body.
+You need to wear a fit to fit to a fit and not inside the gym, and not outside your workout (or other activities).
+If the Fit is inside, you must wear a Fit to fit. If you need to be a Fit and not in your body, and you need a Fit for your fitness, or you need it for your exercise, or else it is not a Fit, you need that fit, and so on.
+It's a fit you need. If the Fit are outside, you can make it your fit. But you're not an exercise.
+Because it's not in the fitness, the Fit isn't in the exercise. Your workout is inside the workout. Your exercise is inside.
+
+Test Sample 11:
+Generated Description: Customize your workout fit, style, style. Choose from the standard size and size of your workout.
+
+Expected Description: Elevate your workout wardrobe with the Fihapyli Workout Tank Top. Featuring a stylish mesh back and racerback design, its perfect for those who love looking fashionable while staying active. Ideal for yoga, running, or casual wear, this top is a chic addition to any fashion-conscious activewear collection.
+
+Cosine Similarity: 0.3709
+----------------------------------------------------------------------------------------------------
+Generating responses:  92%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████                | 11/12 [00:57<00:07,  7.64s/it] 
+Full Generated Text:
+Persona: athlete, needs performance and durability
+Product: Fihapyli Workout Tank Tops for Women Sleeveless Yoga Tops for Women Mesh Back Tops Racerback Muscle Tank Tops Workout Tops for Women Backless Gym Tops Running Tank Tops Activewear Tops Green M
+Customized description:
+We have been making an amazing product for women for a long time and we are making a lot of great products for women. We have been using them for a very long time, so we have made an amazing brand that works for all of us.
+This product is made from a lightweight, lightweight, flexible, lightweight fabric. This fabric is made of the highest quality material. This material is made with the most durable fabric available, as well as the best quality fabric available. The fabric is also made of durable fabric with a clear, lightweight textile.
+Please note that the fabric is not a single piece of fabric. Our fabric is very flexible and has a very thick lining. We hope to have you all ready to work in the future.
+Product Details:
+Product Description:
+This fabric is a lightweight fabric, and is made using a light-weight, lightweight fiber fabric. The Fabrication method for producing fabric is that we make it in a lightweight material with a simple fabric. We are using a soft fabric fabric, which is made in a strong fabric, but is made for the same size.
+The fabric is lightweight, and has very thick lined. We want to make it as wide as possible to make the fabric as comfortable as possible. We also want to add a little extra fabric, so that you can easily stretch it with your own fabric.
+To make the Fabrication process, we need to use a fabric that is flexible enough to be used for the fabric. To make the material, we use a material that is lightweight enough to withstand the pressure of the fabric and will stretch it up to a maximum of about 6 inches.
+A material that can be used in the fabric may be used to make a small piece of clothing, such as a pair of shoes. If you need to stretch it, you can use a variety of fabrics, such like a fabric for your clothes or for clothing.
+We will also create a custom fabric, such a fabric, to be comfortable enough to fit your own clothing. It will be used as a way of making a custom shirt.
+For any item you want to create, we will send an e-mail to you
+
+Test Sample 12:
+Generated Description: We have been making an amazing product for women for a long time and we are making a lot of great products for women. We have been using them for a very long time, so we have made an amazing brand that works for all of us.      
+
+Expected Description: Designed for athletes, the Fihapyli Workout Tank Top is built for performance and durability. Its lightweight, breathable fabric ensures you stay cool during intense workouts, while the racerback design provides maximum range of motion. Whether youre hitting the gym or running, this top offers the durability and comfort you need to perform at your best.
+
+Cosine Similarity: 0.1245
+----------------------------------------------------------------------------------------------------
+Generating responses: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 12/12 [01:11<00:00,  5.96s/it] 
+
+Average Cosine Similarity across all test samples: 0.3298

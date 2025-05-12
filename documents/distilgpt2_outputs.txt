@@ -1,0 +1,84 @@
+Best output1:
+
+PS C:\Users\DELL\Desktop\sem2\INFO259_NLP\Project> python code\main.py
+The attention mask is not set and cannot be inferred from input because pad token is same as eos token. As a consequence, you may observe unexpected behavior. Please pass your input's `attention_mask` to obtain reliable results.
+Generate customized product description to convince the persona to buy a product by changing the generic product description to a customized product description.      Persona: tight budget, student, durability.     Product description: Sahara Sailor Water Bottle, 32oz Motivational Water Bottles with Time Marker, Sports Water Bottle with Silicone Spout and Straw, Tritan, BPA Free, Leakproof Bottle with Wide Mouth Brand       Sahara Sailor
+Material        Tritan
+Bottle Type     Silicone Spout with Removable Straw
+Color   Bubble Gum
+Capacity        946.35 Milliliters
+About this item
+Hydrating Over 15 Million Customers Since 2013: Founded in 2013, Sahara Sailor has sold over 15 million water bottles worldwide, becoming a trusted name in hydration. Our commitment to quality, innovation, and customer satisfaction has made us a favorite among active individuals, fitness enthusiasts, and anyone looking to stay hydrated. Join our global community and discover why millions rely on Sahara Sailor for their hydration needs.
+Commitment to Sustainability: Sahara Sailor is a steadfast partner of Climate Neutral, dedicated to reducing our carbon footprint. We also collaborate with One Tree Planted to plant trees, helping to restore and protect our planet's forests. Our commitment to sustainability ensures that every purchase you make supports a healthier, greener world. Join us in our mission to make a positive impact on the environment.
+Dual-Use Lid: This water bottle with times to drink features an upgraded lid with a soft silicone spout, great for direct drinking. Additionally, it includes a straw, allowing you to effortlessly sip your beverage with ease. This versatile lid design ensures you stay hydrated in a very convenient way possible.
+Motivational Quotes with Time Marker: This sports water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+BPA-Free Tritan Material: This water bottle is crafted from Tritan material, ensuring safety for both you and the planet. Durable and BPA-free, it offers a reliable and sustainable option for your hydration needs. Enjoy peace of mind knowing that you're making a healthy and green choice with every use."
+.      Customized product description:
+The product description is free and available for purchase from our website.
+
+
+
+Best output2: 
+my output is: python code\main.py
+Generate customized product description to convince the persona to buy a product by changing the generic product description to a customized product description.      Persona: tight budget, student, durability.     Product description: Sahara Sailor Water Bottle, 32oz Motivational Water Bottles with Time Marker, Sports Water Bottle with Silicone Spout and Straw, Tritan, BPA Free, Leakproof Bottle with Wide Mouth Brand       Sahara Sailor
+Material        Tritan
+Bottle Type     Silicone Spout with Removable Straw
+Color   Bubble Gum
+Capacity        946.35 Milliliters
+About this item
+Hydrating Over 15 Million Customers Since 2013: Founded in 2013, Sahara Sailor has sold over 15 million water bottles worldwide, becoming a trusted name in hydration. Our commitment to quality, innovation, and customer satisfaction has made us a favorite among active individuals, fitness enthusiasts, and anyone looking to stay hydrated. Join our global community and discover why millions rely on Sahara Sailor for their hydration needs.
+Commitment to Sustainability: Sahara Sailor is a steadfast partner of Climate Neutral, dedicated to reducing our carbon footprint. We also collaborate with One Tree Planted to plant trees, helping to restore and protect our planet's forests. Our commitment to sustainability ensures that every purchase you make supports a healthier, greener world. Join us in our mission to make a positive impact on the environment.
+Dual-Use Lid: This water bottle with times to drink features an upgraded lid with a soft silicone spout, great for direct drinking. Additionally, it includes a straw, allowing you to effortlessly sip your beverage with ease. This versatile lid design ensures you stay hydrated in a very convenient way possible.
+Motivational Quotes with Time Marker: This sports water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+BPA-Free Tritan Material: This water bottle is crafted from Tritan material, ensuring safety for both you and the planet. Durable and BPA-free, it offers a reliable and sustainable option for your hydration needs. Enjoy peace of mind knowing that you're making a healthy and green choice with every use."
+.      Customized product description:
+" This water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip. The eco-friendly and eco-friendly and eco-friendly design ensures that every purchase you make supports a healthier, greener world. Stay motivated and enjoy a fulfilling hydration journey with every sip.       
+Designed for You: This water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+BPA-Free Tritan Material: This water bottle is crafted from Tritan material, ensuring safety for both you and the planet. Durable and BPA-free, it offers a reliable and sustainable option for your hydration needs. Enjoy peace of mind knowing that you're making a healthy and green choice with every use."
+.
+" This water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip. The eco-friendly and eco-friendly and eco-friendly design ensures that every purchase you make supports a healthier, greener world. Stay motivated and enjoy a fulfilling hydration journey with every sip. The eco-friendly and eco-friendly design ensures that every purchase you make supports a healthier, greener world. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+Designed for You: This water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+Designed for You: This water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping
+
+
+
+Worst output 1:
+
+Generate customized product description to convince the persona to buy a product by changing the generic product description to a customized product description.      Persona: tight budget, student, durability.     Product description: Sahara Sailor Water Bottle, 32oz Motivational Water Bottles with Time Marker, Sports Water Bottle with Silicone Spout and Straw, Tritan, BPA Free, Leakproof Bottle with Wide Mouth Brand   Sahara Sailor
+Material        Tritan
+Bottle Type     Silicone Spout with Removable Straw
+Color   Bubble Gum
+Capacity        946.35 Milliliters
+About this item
+Hydrating Over 15 Million Customers Since 2013: Founded in 2013, Sahara Sailor has sold over 15 million water bottles worldwide, becoming a trusted name in hydration. Our commitment to quality, innovation, and customer satisfaction has made us a favorite among active individuals, fitness enthusiasts, and anyone looking to stay hydrated. Join our global community and discover why millions rely on Sahara Sailor for their hydration needs.
+Commitment to Sustainability: Sahara Sailor is a steadfast partner of Climate Neutral, dedicated to reducing our carbon footprint. We also collaborate with One Tree Planted to plant trees, helping to restore and protect our planet's forests. Our commitment to sustainability ensures that every purchase you make supports a healthier, greener world. Join us in our mission to make a positive impact on the environment.
+Dual-Use Lid: This water bottle with times to drink features an upgraded lid with a soft silicone spout, great for direct drinking. Additionally, it includes a straw, allowing you to effortlessly sip your beverage with ease. This versatile lid design ensures you stay hydrated in a very convenient way possible.
+Motivational Quotes with Time Marker: This sports water bottle features time markers and motivational quotes for each hydration milestone you reach. It's designed to inspire you and provide a sense of accomplishment, helping you develop and maintain the healthy habit of staying hydrated. Stay motivated and enjoy a fulfilling hydration journey with every sip.
+BPA-Free Tritan Material: This water bottle is crafted from Tritan material, ensuring safety for both you and the planet. Durable and BPA-free, it offers a reliable and sustainable option for your hydration needs. Enjoy peace of mind knowing that you're making a healthy and green choice with every use."
+.      Customized product description:
+1.
+2.
+3........
+
+Worst output 2:
+rney with every sip.
+BPA-Free Tritan Material: This water bottle is crafted from Tritan material, ensuring safety for both you and the planet. Durable and BPA-free, it offers a reliable and sustainable option for your hydration needs. Enjoy peace of mind knowing that you're making a healthy and green choice with every use."
+.      Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description:
+Customized product description
